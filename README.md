@@ -1,4 +1,4 @@
-# MimWorks Graphics
+# PEGN Graphics
 
 Logos and such.
 
